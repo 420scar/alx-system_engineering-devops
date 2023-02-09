@@ -1,1 +1,1 @@
-a script to print absolute path name
+a script for listing all files
